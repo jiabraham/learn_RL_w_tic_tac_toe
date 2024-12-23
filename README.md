@@ -1,2 +1,2 @@
 # Tic_Tac_Toe_RL
-Creating an agent to play tic tac toe using reinforcement learning.
+This repository holds different RL methods creating an agent to play tic tac toe. 
